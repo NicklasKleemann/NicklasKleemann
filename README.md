@@ -1,17 +1,19 @@
-### Hi there 👋
+# Hi, I'm Nicklas Kleemann 👋
 
-<!--
-**NicklasKleemann/NicklasKleemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student at Aalborg University Copenhagen, passionate about creating innovative and accessible software solutions with cutting-edge technologies. 
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.25%;"><a href="https://www.linkedin.com/in/nicklasvistoftkleemann/" data-iframely-url="//iframely.net/DSOazg9"></a></div></div><script async src="//iframely.net/embed.js"></script>
+- BSc. Software Engineering at Aalborg University Copenhagen (2022 - Present)
+- High School, Mathematics A and Programming B at H. C. Ørsted Gymnasium Lyngby (2019 - 2022)
+
+## 💻 Skills
+
+- Languages: **C/C++**, **Java**, **JavaScript/TypeScript**, **HTML/CSS**, **Processing3/4**, **SQL**, **LATEX**
+- Tools: **Git/GitHub**, **Express.js**, **Node.js**, **VS Code**, **IntelliJ IDEA**, **JavaFX**, **Processing**, **Postman**, **SQLite**, **MySQL**,
+**MongoDB**
+
+## 📫 How to reach me
+
+You can contact me via email at UV54BT@student.aau.dk or connect with me on [LinkedIn](https://www.linkedin.com/in/nicklasvistoftkleemann/).
+
