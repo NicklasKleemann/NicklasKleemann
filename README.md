@@ -11,7 +11,7 @@ I'm a software engineering student at Aalborg University Copenhagen, passionate 
 
 - Languages: **C/C++**, **Java**, **JavaScript/TypeScript**, **HTML/CSS**, **Processing3/4**, **Python**, **SQL** & **LATEX**
 - Tools: **Git/GitHub**, **Azure**, **Express.js**, **Node.js**, **React**, **Spring boot**, **JEST**, **JUnit**, **RESTful**, **JavaFX**, **Postman**, **MySQL**,
-**MongoDB** & OpenAI's LLMs
+**MongoDB** & **OpenAI's LLMs**
 
 ## 📫 How to reach me
 
