@@ -1,6 +1,6 @@
 # Hi, I'm Nicklas Kleemann 👋
 
-I'm a software engineering student at Aalborg University Copenhagen, passionate about creating innovative and accessible software solutions with cutting-edge technologies. 
+I'm a software engineering student at Aalborg University Copenhagen :)
 
 ## 🎓 Education
 
@@ -15,7 +15,7 @@ I'm a software engineering student at Aalborg University Copenhagen, passionate 
 ## 💻 Skills
 
 - **Languages:** C/C++, Java, JavaScript/TypeScript, HTML/CSS, Processing3/4, Python, SQL, Ocaml & LaTeX
-- **Tools:** Git/GitHub, GitHub Actions, Azure, Express.js, Node.js, React, Redux, Spring boot, JEST, JUnit, RESTful, JavaFX, Postman, Unreal Engine 4 & 5, MySQL, MongoDB, OCamllex, Menhir, UML & OpenAi's LLMs
+- **Tools:** Git/GitHub, GitHub Actions, Azure, Express.js, Node.js, React, Redux, Spring boot, JEST, JUnit, Ounit2, RESTful, JavaFX, Unreal Engine 4 & 5, MySQL, MongoDB, OCamllex, Menhir, UML & OpenAi's LLMs
 
 ## 📫 How to reach me
 
