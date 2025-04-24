@@ -21,3 +21,7 @@ I'm a software engineering student at Aalborg University Copenhagen :)
 
 You can contact me via email at UV54BT@student.aau.dk or connect with me on LinkedIn.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicklasvistoftkleemann/)
+
+
+
+[//]: <> (https://github.com/anuraghazra/github-readme-stats)
