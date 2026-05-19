@@ -17,9 +17,9 @@ I am a software engineer specializing in Retrieval-Augmented Generation (RAG) an
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **AI & RAG** | LlamaIndex, LlamaParse, Pinecone, Ragas, OpenAI, Claude, Hybrid Search (BM25) |
-| **Backend** | Django REST Framework, FastAPI, Azure Functions, Node.js, Spring Boot |
-| **Frontend** | React, Redux, Tailwind CSS, JavaScript, TypeScript |
+| **AI & RAG** | LlamaIndex, LlamaParse, Pinecone, Ragas, OpenAI, Claude, Hybrid RAG |
+| **Backend** | Django REST Framework, FastAPI, Azure Functions, Node.js, Spring Boot , NestJS|
+| **Frontend** | React, React Native, Redux, Tailwind CSS, JavaScript, TypeScript |
 | **Languages** | Python, Java, C/C++, OCaml, SQL, LaTeX |
 | **Infrastructure** | Azure, MongoDB, MySQL, Git, GitHub Actions, Docker |
 
