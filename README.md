@@ -28,13 +28,12 @@ I work across RAG and LLM document-extraction systems, full-stack products, and 
 
 ### howdy-as-passkey
 Virtual FIDO2/CTAP2 authenticator that turns Howdy face recognition into a WebAuthn passkey on Linux, the platform authenticator Linux never had. TPM-sealed vault and in-chip P-256 signing, runs fully unprivileged, IR-liveness gated. Go, USB/IP, TPM 2.0, PAM.
-https://github.com/NicklasKleemann/howdy-as-passkey
-
-### AAU Concierge
-Modular RAG framework unifying 35+ Aalborg University subdomains. Dual-path hybrid retrieval (Pinecone + BM25), semantic chunking, 97% response integrity measured with Ragas.
 
 ### Kvæk
 Grocery price-comparison app running in production. NestJS, Prisma, PostgreSQL, and Valkey backend behind a Caddy and Cloudflare edge, a Cloudflare Worker (Hono) proxying retailer APIs, and an Expo React Native client with live price streaming over SSE. Includes a shopping-list route optimizer (exact subset search with a greedy fallback) and a self-hosted GitHub Actions deploy pipeline.
+
+### AAU Concierge
+Modular RAG framework unifying 35+ Aalborg University subdomains. Dual-path hybrid retrieval (Pinecone + BM25), semantic chunking, 97% response integrity measured with Ragas.
 
 ### NHTAi Pipeline (Bachelor's)
 Serverless extraction pipeline for Danish Medicines Council reports. Azure Durable Functions, LlamaParse, strict Pydantic schemas. Lifted F1 from 0.475 to 0.923 and cut processing time by 84%.
