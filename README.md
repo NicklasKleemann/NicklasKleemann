@@ -20,9 +20,9 @@ I work across RAG and LLM document-extraction systems, full-stack products, and 
 | Frontend | React, React Native, Expo, Flutter, Redux, React Router, Tailwind, NativeWind, Storybook |
 | Data and storage | PostgreSQL, MongoDB, MySQL, Redis / Valkey, Prisma, Mongoose, pandas, NumPy, Matplotlib |
 | Systems and Linux | Linux, PAM, TPM 2.0, FIDO2 / CTAP2, WebAuthn, USB/IP, systemd, udev, WebAssembly, compiler construction (OCamllex, Menhir) |
-| Infra and tooling | Docker, Azure, Cloudflare Workers, Caddy, Prometheus, GitHub Actions, pnpm, Turborepo, Maven, Git |
+| Infra and tooling | Docker, Azure, Cloudflare Workers, Caddy, Prometheus, firewalld, GitHub Actions (self-hosted runners), pnpm, Turborepo, Maven, Git |
 | Testing | TDD, pytest, Jest, JUnit, OUnit2, CUnit, Go testing |
-| Practices | Large-Scale Scrum (LeSS), Agile |
+| Practices | Large-Scale Scrum (LeSS), Agile, Jira, Confluence |
 
 ## Selected Projects
 
