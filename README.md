@@ -21,7 +21,7 @@ I work across RAG and LLM document-extraction systems, full-stack products, and 
 | Data and storage | PostgreSQL, MongoDB, MySQL, Redis / Valkey, Prisma, Mongoose, pandas, NumPy, Matplotlib |
 | Systems and Linux | Linux, PAM, TPM 2.0, FIDO2 / CTAP2, WebAuthn, USB/IP, systemd, udev, WebAssembly, compiler construction (OCamllex, Menhir) |
 | Infra and tooling | Docker, Azure, Cloudflare Workers, Caddy, Prometheus, GitHub Actions, pnpm, Turborepo, Maven, Git |
-| Testing | TDD, JUnit, Jest, OUnit2 |
+| Testing | TDD, pytest, Jest, JUnit, OUnit2, CUnit, Go testing |
 | Practices | Large-Scale Scrum (LeSS), Agile |
 
 ## Selected Projects
