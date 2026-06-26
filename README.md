@@ -1,48 +1,50 @@
-# Hi there, I'm Nicklas Vistoft Kleemann 👋
+# Nicklas Vistoft Kleemann
 
-**MSc. Software Engineering Student** @ Aalborg University CPH | **Associate Software Engineer** @ NHTA
+MSc Software Engineering student at Aalborg University CPH, and Associate Software Engineer at NHTA.
 
-I am a software engineer specializing in Retrieval-Augmented Generation (RAG) and complex full-stack systems. Currently, I am pursuing my Master's degree while developing production-grade AI-driven automation at NHTA.
+I work across RAG and LLM document-extraction systems, full-stack products, and lower-level Linux and systems programming.
 
----
+## Status
 
-### 🚀 Professional Status
-* **Current Education:** Master of Science (MSc) in Computer Software Engineering (2025 - June 2027)
-* **Current Role:** Associate Software Engineer at NHTA (August 2024 - Present)
-* **Core Focus:** Modular RAG Frameworks, Large-Scale Agile Development, and Serverless Pipelines
+- Education: MSc Computer Software Engineering (2025 to June 2027)
+- Role: Associate Software Engineer at NHTA (Aug 2024 to present)
+- Focus: RAG frameworks, LLM-driven document extraction, full-stack systems
 
----
+## Technical Toolbox
 
-### 🛠️ Technical Toolbox
-
-| Category | Tools & Languages |
+| Category | Tools and technologies |
 | :--- | :--- |
-| **AI & RAG** | LlamaIndex, LlamaParse, Pinecone, Ragas, OpenAI, Claude, Hybrid RAG |
-| **Backend** | Django REST Framework, FastAPI, Azure Functions, Node.js, Spring Boot , NestJS|
-| **Frontend** | React, React Native, Redux, Tailwind CSS, JavaScript, TypeScript |
-| **Languages** | Python, Java, C/C++, OCaml, SQL, LaTeX |
-| **Infrastructure** | Azure, MongoDB, MySQL, Git, GitHub Actions, Docker |
+| Languages | Python, TypeScript, JavaScript, Go, Java, C / C++, OCaml, Dart, SQL, Bash, LaTeX |
+| AI, RAG and LLM | LlamaIndex, LlamaParse, PageIndex, Pinecone, Ragas, BM25 and hybrid retrieval, semantic chunking, Pydantic extraction, OpenAI, Claude, Ollama |
+| Backend | FastAPI, Django REST, NestJS, Hono, Express, Node.js, Spring Boot, Azure (Durable) Functions, SSE |
+| Frontend | React, React Native, Expo, Flutter, Redux, React Router, Tailwind, NativeWind, Storybook |
+| Data and storage | PostgreSQL, MongoDB, MySQL, Redis / Valkey, Prisma, Mongoose, pandas, NumPy, Matplotlib |
+| Systems and Linux | Linux, PAM, TPM 2.0, FIDO2 / CTAP2, WebAuthn, USB/IP, systemd, udev, WebAssembly, compiler construction |
+| Infra and tooling | Docker, Azure, Cloudflare Workers, Caddy, Prometheus, GitHub Actions, pnpm, Turborepo, Maven, Git |
+| Practices | Large-Scale Scrum (LeSS), Agile |
 
----
+## Selected Projects
 
-### 📂 Featured Projects
+### howdy-as-passkey
+Virtual FIDO2/CTAP2 authenticator that turns Howdy face recognition into a WebAuthn passkey on Linux, the platform authenticator Linux never had. TPM-sealed vault and in-chip P-256 signing, runs fully unprivileged, IR-liveness gated. Go, USB/IP, TPM 2.0, PAM.
+https://github.com/NicklasKleemann/howdy-as-passkey
 
-#### 🤖 AAU Concierge
-A modular RAG framework designed to unify Aalborg University's fragmented digital landscape across 35+ subdomains.
-* **Technical Highlights:** Implemented a dual-path hybrid retrieval system (Pinecone + BM25) and semantic chunking.
-* **Impact:** Achieved a 97% response integrity score validated via the Ragas framework.
+### AAU Concierge
+Modular RAG framework unifying 35+ Aalborg University subdomains. Dual-path hybrid retrieval (Pinecone + BM25), semantic chunking, 97% response integrity measured with Ragas.
 
-#### 🏗️ NHTAI Pipeline
-A serverless data extraction pipeline for processing Danish Medicines Council (DMC) reports, developed as a collaborative Bachelor's project.
-* **Technical Highlights:** Built on Azure Durable Functions using LlamaParse and strict Pydantic schemas.
-* **Impact:** Optimized extraction accuracy (F1-score) from 0.475 to 0.923 and reduced processing time by 84%.
+### Kvæk
+Grocery price-comparison app running in production. NestJS, Prisma, PostgreSQL, and Valkey backend behind a Caddy and Cloudflare edge, a Cloudflare Worker (Hono) proxying retailer APIs, and an Expo React Native client with live price streaming over SSE. Includes a shopping-list route optimizer (exact subset search with a greedy fallback) and a self-hosted GitHub Actions deploy pipeline.
 
-#### 👥 Educado
-A complex full-stack software project developed using Large-Scale Scrum (LeSS) methodologies.
-* **Technical Highlights:** Focused on enterprise software design, agile coordination across teams, and full-stack integration.
-* **Impact:** Successfully navigated large-scale agile ceremonies to deliver a cohesive, multi-module software solution.
+### NHTAi Pipeline (Bachelor's)
+Serverless extraction pipeline for Danish Medicines Council reports. Azure Durable Functions, LlamaParse, strict Pydantic schemas. Lifted F1 from 0.475 to 0.923 and cut processing time by 84%.
 
----
+### Numatix
+WebAssembly compiler for a custom imperative language, written in OCaml. Full lexer, parser, and code generation.
 
-### 📫 Connect with me
-* **Hyperrefs:** [LinkedIn Profile](https://www.linkedin.com/in/nicklasvistoftkleemann/) | [GitHub Profile](https://github.com/NicklasKleemann)
+### Educado
+Large-Scale Scrum full-stack platform built across multiple coordinated teams.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/nicklasvistoftkleemann/
+- GitHub: https://github.com/NicklasKleemann
