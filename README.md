@@ -15,7 +15,7 @@ I work across RAG and LLM document-extraction systems, full-stack products, and 
 | Category | Tools and technologies |
 | :--- | :--- |
 | Languages | Python, TypeScript, JavaScript, Go, Java, C / C++, OCaml, Dart, SQL, Bash, LaTeX |
-| AI, RAG and LLM | LlamaIndex, LlamaParse, PageIndex, Pinecone, Ragas, Langfuse, BM25 and hybrid retrieval, semantic chunking, Pydantic extraction, OpenAI, Claude, Ollama |
+| AI, RAG and LLM | LlamaIndex, LlamaParse, PageIndex, Pinecone, Ragas, Langfuse, BM25 and hybrid retrieval, parent-child chunking, Pydantic extraction, OpenAI, Claude, Ollama |
 | Backend | FastAPI, Django REST, NestJS, Hono, Express, Node.js, Spring Boot, Azure (Durable) Functions, SSE |
 | Frontend | React, React Native, Expo, Flutter, Redux, React Router, Tailwind, NativeWind, Storybook |
 | Data and storage | PostgreSQL, MongoDB, MySQL, Redis / Valkey, Prisma, Mongoose, pandas, NumPy, Matplotlib |
