@@ -2,7 +2,7 @@
 
 MSc Software Engineering student at Aalborg University CPH, and Associate Software Engineer at NHTA.
 
-I work across RAG and LLM document-extraction systems, full-stack products, and lower-level Linux and systems programming.
+I work across RAG and LLM document-extraction systems, full-stack products, and dabble in Linux and systems programming.
 
 ## Status
 
