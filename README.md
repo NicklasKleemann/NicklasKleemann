@@ -15,12 +15,13 @@ I work across RAG and LLM document-extraction systems, full-stack products, and 
 | Category | Tools and technologies |
 | :--- | :--- |
 | Languages | Python, TypeScript, JavaScript, Go, Java, C / C++, OCaml, Dart, SQL, Bash, LaTeX |
-| AI, RAG and LLM | LlamaIndex, LlamaParse, PageIndex, Pinecone, Ragas, BM25 and hybrid retrieval, semantic chunking, Pydantic extraction, OpenAI, Claude, Ollama |
+| AI, RAG and LLM | LlamaIndex, LlamaParse, PageIndex, Pinecone, Ragas, Langfuse, BM25 and hybrid retrieval, semantic chunking, Pydantic extraction, OpenAI, Claude, Ollama |
 | Backend | FastAPI, Django REST, NestJS, Hono, Express, Node.js, Spring Boot, Azure (Durable) Functions, SSE |
 | Frontend | React, React Native, Expo, Flutter, Redux, React Router, Tailwind, NativeWind, Storybook |
 | Data and storage | PostgreSQL, MongoDB, MySQL, Redis / Valkey, Prisma, Mongoose, pandas, NumPy, Matplotlib |
-| Systems and Linux | Linux, PAM, TPM 2.0, FIDO2 / CTAP2, WebAuthn, USB/IP, systemd, udev, WebAssembly, compiler construction |
+| Systems and Linux | Linux, PAM, TPM 2.0, FIDO2 / CTAP2, WebAuthn, USB/IP, systemd, udev, WebAssembly, compiler construction (OCamllex, Menhir) |
 | Infra and tooling | Docker, Azure, Cloudflare Workers, Caddy, Prometheus, GitHub Actions, pnpm, Turborepo, Maven, Git |
+| Testing | TDD, JUnit, Jest, OUnit2 |
 | Practices | Large-Scale Scrum (LeSS), Agile |
 
 ## Selected Projects
