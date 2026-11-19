@@ -14,14 +14,14 @@ I build LLM document-extraction pipelines and the systems around them: crawlers 
 | LLM and agents | OpenAI, Anthropic, Gemini, LiteLLM, Ollama, vLLM, Hugging Face, LangChain, LlamaIndex, Pydantic AI, PageIndex, tool-calling agents, MCP servers |
 | Extraction and retrieval | LlamaParse, Docling, PyMuPDF, Pydantic schemas, Pinecone, BM25 and hybrid retrieval, parent-child chunking, Typesense, Algolia |
 | Evaluation and observability | Ragas, extract-bench, Langfuse, OpenTelemetry, Sentry, Prometheus |
-| Scraping and data | Scrapy, Playwright, Camoufox, BeautifulSoup, Dagster, Apache Iceberg, pandas, NumPy |
+| Scraping and data | Scrapy, Playwright, Camoufox, BeautifulSoup, Dagster, pandas, NumPy |
 | Backend | FastAPI, Django REST, NestJS, Express, Hono, Spring Boot, Azure (Durable) Functions, SSE, JWT / OAuth |
 | Frontend and mobile | React, Next.js, React Native, Expo, Flutter, Redux, Zustand, TanStack Query, Mantine, shadcn/ui, Tailwind, Storybook |
 | Databases | PostgreSQL, MongoDB, MySQL, TiDB, Redis / Valkey, Prisma, SQLAlchemy, Mongoose |
-| Infra and tooling | Docker, Terraform, Azure, Cloudflare Workers, Vercel, Caddy, GitHub Actions, uv, pnpm, Turborepo |
+| Infra and tooling | Docker, Azure, Cloudflare Workers, Vercel, Caddy, GitHub Actions, uv, pnpm, Turborepo |
 | ML | PyTorch, TensorFlow / Keras, scikit-learn, Transformers, NLTK, gensim |
 | Systems and Linux | PAM, TPM 2.0, FIDO2 / CTAP2, WebAuthn, USB/IP, D-Bus, bubblewrap, systemd, firewalld, WebAssembly, OCamllex / Menhir |
-| Testing | TDD, pytest, Vitest, Jest, Supertest, Cypress, Testcontainers, JUnit |
+| Testing | TDD, pytest, Vitest, Jest, Supertest, Cypress, JUnit |
 | Practices | Large-Scale Scrum (LeSS), Agile, Jira, Confluence, Lean Startup |
 
 ---
